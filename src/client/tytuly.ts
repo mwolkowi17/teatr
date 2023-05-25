@@ -1,0 +1,1 @@
+export const tytuly = ['Teatr', 'Wejście', 'Schody', 'Toaleta']
